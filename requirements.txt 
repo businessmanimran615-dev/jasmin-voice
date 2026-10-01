@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+kokoro
+soundfile
+torchaudio
+misaki
+spaces
+huggingface-hub
